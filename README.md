@@ -15,9 +15,6 @@ OK - upstream 10.05 MBit/s , downstream 55.5 MBit/s
 
 check_fritzbox.rb --status
 OK - connection up
-
-
-
 ```
 
 
